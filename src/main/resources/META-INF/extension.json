@@ -1,0 +1,9 @@
+{
+  "entrypoint": "gg.astromc.strike.StrikeExtension",
+  "name": "Strike",
+  "version": "1.0.0",
+  "meta": {
+    "GitHub": "https://github.com/AstroMCS/Strike",
+    "License": "MIT"
+  }
+}
